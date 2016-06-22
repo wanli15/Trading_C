@@ -1,0 +1,3 @@
+Moderate Startegythe trade 1 time of the return is  1.06663  the trade 2 time of the return is  -0.569761  
+
+Passive Startegy the trade 1 time of the return is  0.565481  

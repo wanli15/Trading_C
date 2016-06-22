@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/5/2 17:53:48。
+     1>项目“C:\Users\Jade\Documents\Visual Studio 2013\Projects\545Project_WL\545Project_WL\545Project_WL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp
+         main.cpp
+     1>main.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jade\Documents\Visual Studio 2013\Projects\545Project_WL\Release\545Project_WL.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jade\Documents\Visual Studio 2013\Projects\545Project_WL\Release\545Project_WL.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\Data.obj
+         Release\downloadFile.obj
+         Release\indicator.obj
+         Release\logger.obj
+         Release\main.obj
+         Release\Performance.obj
+         Release\Records.obj
+         Release\Strategy.obj
+         Release\Tools.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         545Project_WL.vcxproj -> C:\Users\Jade\Documents\Visual Studio 2013\Projects\545Project_WL\Release\545Project_WL.exe
+     1>已完成生成项目“C:\Users\Jade\Documents\Visual Studio 2013\Projects\545Project_WL\545Project_WL\545Project_WL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.51
